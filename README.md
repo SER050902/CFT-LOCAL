@@ -1,8 +1,4 @@
-# CFT-LOCAL
-
-# CTF - Reto de Seguridad en VirtualBox
-
-Este proyecto es un CTF (Capture The Flag) diseñado para practicar y demostrar habilidades en análisis de seguridad y hacking ético dentro de un entorno controlado.
+# CFT LOCAL
 
 ## Plataforma y Entorno
 
