@@ -8,9 +8,7 @@
 
 2. Configurar ambas máquinas en red con **Adaptador de solo anfitrión** y asegurarse de que estén en la misma subred (por ejemplo, 192.168.56.0/24).
 
-3. Verifica la conectividad entre las máquinas usando `ping`.
-
-4. Asegúrate de tener herramientas como `nmap`, `hydra`, `docker`, `python3`, y `encfs` instaladas según se necesiten.
+3. Asegúrar de tener herramientas `nmap`, `hydra`, `docker`, `python3`, y `encfs` instaladas según se necesiten.
 
 ---
 
