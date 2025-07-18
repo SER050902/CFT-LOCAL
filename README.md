@@ -1,11 +1,16 @@
 # CFT LOCAL
 
-## Entorno técnico
+## Preparación del entorno
 
-- Plataforma: **VirtualBox**
-- Red: **Adaptador de solo anfitrión**
-- Máquina víctima: **Ubuntu Server**
-- Máquina atacante recomendada: **Kali Linux**
+1. Instalar VirtualBox y crear dos máquinas virtuales:
+   - Ubuntu Server (objetivo)
+   - Kali Linux o similar (atacante)
+
+2. Configurar ambas máquinas en red con **Adaptador de solo anfitrión** y asegurarse de que estén en la misma subred (por ejemplo, 192.168.56.0/24).
+
+3. Verifica la conectividad entre las máquinas usando `ping`.
+
+4. Asegúrate de tener herramientas como `nmap`, `hydra`, `docker`, `python3`, y `encfs` instaladas según se necesiten.
 
 ---
 
